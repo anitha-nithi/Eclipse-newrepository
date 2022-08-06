@@ -1,6 +1,5 @@
 package basics.zealous.Firstprojectzealous;
 
-public class arithmeticOpeartions {
-	
-	
+public class newclass {
+
 }
